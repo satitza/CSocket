@@ -6,7 +6,7 @@
 #include <arpa/inet.h>
 #include <netinet/in.h>
 
-#define SERVER_ADDRESS "192.168.0.3"
+#define SERVER_ADDRESS "127.0.0.1"
 #define SERVER_PORT  4444
 
 
